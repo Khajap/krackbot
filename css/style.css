@@ -1,9 +1,10 @@
-.menu .navbar-dark .navbar-nav .nav-link{    font-size: 13px;color: #333 !important;   padding:15px 48px 0px;}
+.menu .navbar-dark .navbar-nav .nav-link{    font-size: 14px;font-weight: 400;color: #333 !important;   padding:15px 48px 0px;}
 .no-bod-rad{border-radius: 0px !important}
 .no-padd{padding-left: 0px !important;padding-right: 0px !important}
 .five-padd{padding-left: 5px !important;padding-right: 5px !important}
-.logo{    width: 70%;}
+.logo{    width: 70%; padding-top: 8px;}
 .bars{width: 62%;}
+.wyn{    border-radius: 16px !important;border: none !important;;background: #e6e6e6 !important;;}
 .container {max-width: 1360px;}
 .navbar-dark .navbar-toggler {color: rgb(33 37 41) !important; border-color: rgb(33 37 41) !important;background: #3b3c3e !important;}
 /* text animation css start*/
