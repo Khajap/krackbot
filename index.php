@@ -89,7 +89,7 @@ Started Date: 9 Sept 2020
 -->
           <form>
            <div class="form-group py-3">
-            <input type="text" class="form-control form-control-lg bg-light col-sm-10" placeholder="Whats Your Name?"> 
+            <input type="text" class="form-control form-control-lg wyn col-sm-10" placeholder="Whats Your Name?"> 
            </div>  
           </form>
           <h4><b> Wow you got a great game..</b></h4>
